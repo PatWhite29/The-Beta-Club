@@ -69,7 +69,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Contact 📬
 - **Creator:** Patricio
 - **Email:** blancop296@gmail.com
-- **GitHub:** [yourusername](https://github.com/PatWhite29)
+- **GitHub:** [PatWhite29](https://github.com/PatWhite29)
 - **Website:** [thebetaclub.com](https://thebetaclub.com)
 
 Happy Climbing! 🧗‍♂️🔥
